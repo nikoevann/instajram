@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#4CAF50</color>
+    <color name="grey_200">#F1EFEF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="akun">Don\'t have an account? Click SignUp Button</string>
+    <string name="app_name">Instajram</string>
+    <string name="appname">Instajram</string>
+    <string name="daftar">SignUp</string>
+    <string name="descEdt">Add your description!</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="fab">FAB</string>
+    <string name="judul">Title</string>
+    <string name="kamera">Gallery</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="textaddstory">Add Story</string>
+    <string name="textlogout">LogOut</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="welcome">Enter</string>
+    <style name="Base.Theme.Appstory" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">@color/green</item>
+    </style>
+    <style name="Theme.Appstory" parent="Base.Theme.Appstory"/>
+</resources>

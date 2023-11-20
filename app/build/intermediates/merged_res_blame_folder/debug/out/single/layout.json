@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\activity_maps.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\activity_detail.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "com.example.appstory.app-mergeDebugResources-3:/layout/activity_maps.xml",
+        "source": "com.example.appstory.app-main-6:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\item_row.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\item_row.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\activity_post.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\activity_signup.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\daemon\\8.0\\com.example.appstory.app-mergeDebugResources-3:\\layout\\landing_page.xml",
+        "source": "E:\\daemon\\8.0\\com.example.appstory.app-main-6:\\layout\\landing_page.xml"
+    }
+]
